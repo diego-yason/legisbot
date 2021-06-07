@@ -1,0 +1,29 @@
+{
+  "name": "legisbot",
+  "version": "1.0.0",
+  "description": "Legislation-Centric Bot for Discord, will use interaction features",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingMarine-GH/legisbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingMarine-GH/legisbot/issues"
+  },
+  "homepage": "https://github.com/KingMarine-GH/legisbot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.2.5"
+  }
+}
